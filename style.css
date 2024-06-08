@@ -173,7 +173,7 @@ form button:hover{
     }
     .container .weatherInfo .temperature{
         left: 15px;
-        top: 250px;
+        top: 230px;
 
     }
     
@@ -184,7 +184,7 @@ form button:hover{
 
     }
     .container .forecastInfo-container{
-        font-size: 11px;
+        font-size: 10px;
         gap: 15px;
 
     
