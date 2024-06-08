@@ -52,7 +52,7 @@ form button:hover{
     background-color: blue;
 
 }
-@media (max-width:500px) {
+@media (max-width:600px) {
     form{
         display: flex;
         flex-direction: column;
@@ -142,7 +142,7 @@ form button:hover{
 
 
 
-@media (max-width:500px) {
+@media (max-width:600px) {
     body{
         display: flex;
         flex-direction: column;
@@ -157,7 +157,7 @@ form button:hover{
     }
     .container .weatherInfo .date{
         left: 15px;
-        top: 90;
+        top: 90px;
 
     }
     .container .weatherInfo .condition{
@@ -179,7 +179,7 @@ form button:hover{
     
     
     .container .forecastInfo{
-        bottom: 120px;
+        bottom: 30px;
         left: 15px;
 
     }
